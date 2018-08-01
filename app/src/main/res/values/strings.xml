@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="num_pax">size</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="date_picker">Day</string>
+    <string name="time_picker">Time</string>
+    <string name="reset">Reset</string>
+    <string name="telephone">Telephone</string>
+    <string name="smoking">Smoking</string>
+    <string name="reserve">Reserve</string>
+</resources>
